@@ -7,7 +7,7 @@
  * 
  */
 
-let baseUrl = ''; 
+let baseUrl = '//elm.cangdu.org'; 
 let routerMode = 'hash';
 let imgBaseUrl = '';
 
